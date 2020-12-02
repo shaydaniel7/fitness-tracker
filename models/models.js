@@ -63,8 +63,7 @@ const workoutSchema = new Schema({
     //     }, 0)
         // return this.fullName;
     // })
-
-
+    
 // This creates our model from the above schema, using mongoose's model method
 const Workout = mongoose.model("Workout", workoutSchema);
 
