@@ -2,7 +2,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 
 //set up port for express
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 3000;
 
 //set up express
 const app = express();
