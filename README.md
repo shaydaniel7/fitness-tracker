@@ -23,7 +23,9 @@
 <br>
 
 ## Screenshot
-
+<img width="473" alt="Screen Shot 2020-12-03 at 9 58 38 AM" src="https://user-images.githubusercontent.com/67557233/101068954-3b16c000-354e-11eb-8adb-f0065ed753b9.png">
+<img width="483" alt="Screen Shot 2020-12-03 at 9 58 05 AM" src="https://user-images.githubusercontent.com/67557233/101068966-3d791a00-354e-11eb-8a08-6ecebc9b69d7.png">
+<img width="1147" alt="Screen Shot 2020-12-03 at 9 58 51 AM" src="https://user-images.githubusercontent.com/67557233/101068974-3fdb7400-354e-11eb-8927-35c76e62eac6.png">
 <br>
 
 ## Information
